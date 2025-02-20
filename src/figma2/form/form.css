@@ -1,0 +1,47 @@
+#parent{
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    gap: 60px;
+}
+
+#data-left{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-left: 45px;
+}
+#data-right{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 40%;
+    margin-top: 100px;
+}
+#right-first input{
+    padding: 7px;
+    border-radius: 5px;
+}
+
+#right-first{
+    display: flex;
+    gap: 20px;
+}
+
+#right-second textarea{
+    width: 420px;
+    height: 100px;
+    border-radius: 5px;
+}
+
+#right-second button{
+    width: 420px;
+    padding: 10px;
+    background-color: rgba(0, 0, 128, 0.678);
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+

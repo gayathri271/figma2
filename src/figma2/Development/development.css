@@ -1,0 +1,31 @@
+#development{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    gap: 200px;
+    width: 100%;
+
+}
+#development-left{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    gap: 10px;
+
+}
+#development-left >h4{
+    color: blue;
+}
+
+#development-left >button{
+    width: 170px;
+    padding: 10px;
+    background-color: rgba(0, 0, 128, 0.678);
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+#development-right >img{
+    border-radius: 15px;
+
+}

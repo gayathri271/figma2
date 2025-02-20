@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    justify-content: space-around !important;
+}
+.Col{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+#title{
+    font-size: 2rem;
+    font-weight: bold;
+}
